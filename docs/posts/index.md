@@ -1,1 +1,2 @@
-这里是我的文章，欢迎阅读
+<span style="color: var(--vp-c-brand-1); font-weight: bold;">Here's my posts<br>这里存有我的文字。</span>
+<br>Study, Realize, Insight

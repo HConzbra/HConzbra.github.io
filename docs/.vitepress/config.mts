@@ -18,8 +18,9 @@ export default defineConfig({
         {
           text: '所有文章',
           items: [
-            { text: 'Hello World', link: '/posts/hello' },
             { text: 'another', link: '/posts/another' },
+            { text: 'Hello World', link: '/posts/hello' },
+            
           ]
         }
       ],
