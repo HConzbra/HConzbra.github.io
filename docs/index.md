@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "HConzbra_'s personal website"
+  name: "HConzbra_'s Personal Website"
   text: "你好！这里是哈康"
-  tagline: bruh
+  tagline: "我让自己登基，做疯的君王｜万物皆有裂痕，那是光照进来的地方"
   actions:
     - theme: brand
       text: Markdown Examples
