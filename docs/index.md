@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Hi !  Here's HConzbra_"
-  text: "你好！这里是哈康"
+  text: "你好！这里是哈康HC"
   tagline: "<span style=\"white-space: nowrap;\">我让自己登基，做疯的君王｜万物皆有裂痕，那是光照进来的地方</span>"
   actions:
     - theme: brand
