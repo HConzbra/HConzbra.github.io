@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: "HConzbra's Personal Website",
+  title: "HConzlvra_'s Personal Website",
   description: "A VitePress Site",
   base: '/',
   head: [
@@ -45,7 +45,7 @@ export default defineConfig({
       ],
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/HConzbra' }
+      { icon: 'github', link: 'https://github.com/HConzlvra' }
     ]
   }
 })

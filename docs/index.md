@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Hi !  Here's HConzbra_"
+  name: "Hi !  Here's HConzlvra_"
   text: "你好！这里是哈康HC"
   tagline: "<span style=\"white-space: nowrap;\">我让自己登基，做疯的君王｜万物皆有裂痕，那是光照进来的地方</span>"
   actions:
@@ -20,6 +20,6 @@ features:
   - title: 是个人物
     details: 烨然若神人
   - title: 哈康大会@Official
-    details: Harold_Conzbra, HConzbra_, HC, 哈康, 哈康HC, 哈康国王～
+    details: Harold_Conzlvra, HConzlvra_, HC, 哈康, 哈康HC, 哈康国王～
 ---
 
